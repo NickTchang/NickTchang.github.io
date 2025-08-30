@@ -2,17 +2,21 @@
 let total = 0;
 
 let prices = {
-  ItemA: 1,
-  ItemB: 2,
-  ItemC: 3,
-  ItemD: 5.50
+  minif: 4,
+  peking: 4,
+  nud: 7,
+  nudh: 9,
+  hstreif: 8,
+  softd: 2
 }
 
 let count = {
-  ItemA: 0,
-  ItemB: 0,
-  ItemC: 0,
-  ItemD: 0
+  minif: 0,
+  peking: 0,
+  nud: 0,
+  nudh: 0,
+  hstreif: 0,
+  softd: 0
 }
 
 
